@@ -1,0 +1,78 @@
+{
+  "uid" : "4a4a8bdc62eff2f2",
+  "name" : "doDivision",
+  "fullName" : "TestRunner.doDivision",
+  "historyId" : "d8ddbc3d73350c8dbb3f5109bf660f22",
+  "time" : {
+    "start" : 1632155087060,
+    "stop" : 1632155091856,
+    "duration" : 4796
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "stop",
+    "time" : {
+      "start" : 1632155091913,
+      "stop" : 1632155093057,
+      "duration" : 1144
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "doDivision"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Calculator Automation"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-29KBN6H"
+  }, {
+    "name" : "thread",
+    "value" : "1364@DESKTOP-29KBN6H.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a4a8bdc62eff2f2.json",
+  "parameterValues" : [ ]
+}

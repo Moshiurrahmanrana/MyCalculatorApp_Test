@@ -1,0 +1,78 @@
+{
+  "uid" : "42624428ce913910",
+  "name" : "doSum",
+  "fullName" : "TestRunner.doSum",
+  "historyId" : "e16746855fbb057f4f7349fd94e91561",
+  "time" : {
+    "start" : 1632155077807,
+    "stop" : 1632155082544,
+    "duration" : 4737
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "stop",
+    "time" : {
+      "start" : 1632155091913,
+      "stop" : 1632155093057,
+      "duration" : 1144
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "doSum"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Calculator Automation"
+  }, {
+    "name" : "suite",
+    "value" : "Calculator automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-29KBN6H"
+  }, {
+    "name" : "thread",
+    "value" : "1364@DESKTOP-29KBN6H.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42624428ce913910.json",
+  "parameterValues" : [ ]
+}
