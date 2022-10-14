@@ -8,4 +8,6 @@ Installation
 - [ ] Check ADB version-->adb --version
 ```
 
+**Genarate APK download link from EVOZI app.**
+
 
