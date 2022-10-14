@@ -10,9 +10,9 @@ Installation
 
 **Genarate APK download link from EVOZI app.**
 ```
-1. Open andriod studio and open apk file in debug option
-2. if external device use for test then connect with USB cable.
-3. Otherwise use emulator in tools option andriod studio
-4. After that open appium and input needed information. then click save & Run
+1. In Android studio open APK file from debug option.
+2. if the external device is used for the test then connect with a USB cable.
+3. Otherwise use the emulator in the tools option android studio
+4. After that open Appium and input the needed information. Then click save & Run
 ```
 
